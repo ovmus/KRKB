@@ -1,4 +1,4 @@
-update=4/13/2020 10:12:43 PM
+update=4/20/2020 9:44:25 PM
 version=1
 last_client=kicad
 [general]
@@ -16,10 +16,10 @@ LibDir=
 version=1
 [PcbFrame]
 version=1
-[sheetnames]
-1=00000000-0000-0000-0000-00005e94d999:
 [SchematicFrame]
 version=1
+[sheetnames]
+1=00000000-0000-0000-0000-00005e9e6158:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -43,9 +43,6 @@ RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
 CopperEdgeClearance=0.01
 TrackWidth1=0.254
-TrackWidth2=0.32385
-TrackWidth3=0.3429
-TrackWidth4=0.381
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
@@ -258,7 +255,7 @@ dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=Power
 Clearance=0.2
-TrackWidth=0.3429
+TrackWidth=0.29845
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3

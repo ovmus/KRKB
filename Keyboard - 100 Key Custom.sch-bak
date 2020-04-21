@@ -1131,6 +1131,10 @@ Text GLabel 3550 4100 0    50   Input ~ 0
 D-
 Text GLabel 4050 3000 0    50   Input ~ 0
 RESET
+Text GLabel 5250 5200 2    50   Input ~ 0
+row4
+Text GLabel 5250 5500 2    50   Input ~ 0
+row5
 Text GLabel 7750 1650 0    50   Input ~ 0
 row0
 Text GLabel 7750 2450 0    50   Input ~ 0
@@ -1182,11 +1186,11 @@ col17
 Text GLabel 23000 850  1    50   Input ~ 0
 col18
 $Comp
-L power:VCC #PWR0113
-U 1 1 5E9BC47F
+L power:+5V #PWR0113
+U 1 1 5E9DDDC6
 P 2500 4250
 F 0 "#PWR0113" H 2500 4100 50  0001 C CNN
-F 1 "VCC" H 2515 4420 50  0000 C CNN
+F 1 "+5V" H 2515 4420 50  0000 C CNN
 F 2 "" H 2500 4250 50  0001 C CNN
 F 3 "" H 2500 4250 50  0001 C CNN
 	1    2500 4250
